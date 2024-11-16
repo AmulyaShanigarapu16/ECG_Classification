@@ -21,9 +21,9 @@ The inputs to the model are the labeled beats which are processed by the convolu
 <img width="502" alt="image" src="https://github.com/user-attachments/assets/1a7268ff-6476-4cf0-aeab-4ad31913ab3c">   
 
 **Data Preparation**
-Input Datasets: we can find the datasets in the link provided in data.md file.
-Preprocessing: The input datasets should be CSV files with samples as rows and features as columns. Ensure that the last column contains the labels.
-Model Prediction: The model extracts features from convolutional layers and residual blocks. It predicts the class of each ECG beat by using the learned features extracted. It outputs a probability distribution over the classes using the softmax layer, selecting the class with the highest probability as the predicted label.
+- Input Datasets: we can find the datasets in the link provided in data.md file.
+- Preprocessing: The input datasets should be CSV files with samples as rows and features as columns. Ensure that the last column contains the labels.
+- Model Prediction: The model extracts features from convolutional layers and residual blocks. It predicts the class of each ECG beat by using the learned features extracted. It outputs a probability distribution over the classes using the softmax layer, selecting the class with the highest probability as the predicted label.
 
 Results from our model evaluations:
 ### Arrhythmia Classifier
