@@ -1,1 +1,1 @@
-The data we are using in this project can be found [here](https://www.kaggle.com/datasets/shayanfazeli/heartbeat) which is the preprocessed data published by one of the authors of the [paper](https://arxiv.org/pdf/1805.00794)
+The data we are using in this project can be found [here](https://www.kaggle.com/datasets/shayanfazeli/heartbeat) which is the preprocessed data, published by one of the authors of the [paper](https://arxiv.org/pdf/1805.00794)
